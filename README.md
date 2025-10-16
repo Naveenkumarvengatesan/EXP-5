@@ -16,6 +16,16 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
+
+LINE REGULATION
+
+<img width="1042" height="397" alt="experiment 5 circuit 1" src="https://github.com/user-attachments/assets/debb77a9-9a1e-4d90-a4ab-8cd0dd65344a" />
+
+LOAD REGULATION
+
+<img width="835" height="308" alt="experiment 5 circuit 2" src="https://github.com/user-attachments/assets/174a0061-a3ae-482d-ae36-bbd7f89a3750" />
+
+
 THEORY:
 	
 A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
@@ -29,9 +39,52 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+Tabulation:
+
+LINE REGULATION 
+
+<img width="638" height="306" alt="table 1ex 5" src="https://github.com/user-attachments/assets/d868fb45-4056-4743-86e1-eb0b94dcd4a8" />
+
+
+LOAD REGULATION
+
+
+<img width="739" height="332" alt="exp 5 table 2" src="https://github.com/user-attachments/assets/53506a47-093f-4480-aefd-8b9d6959eb54" />
+
+
+REGULATION CHARACTERISTICS';
+
+MODEL GRAPH
+
+LINE REGULATION
+
+<img width="818" height="332" alt="ex 5 graph 1" src="https://github.com/user-attachments/assets/21bf318a-31d9-4859-9a07-1352c1acd682" />
+
+
+LOAD REGULATION
+
+
+
+<img width="710" height="414" alt="exp 5 graph 2" src="https://github.com/user-attachments/assets/b713c934-b649-46a6-b78b-1c30220ca3fd" />
+
+
+
 
 V-I & REGULATION CHARACTERISTICS:
+
+
+
+
+<img width="796" height="390" alt="exp 5 diagram 1" src="https://github.com/user-attachments/assets/7d4e613e-c0e0-4f9f-bfde-c20733940acc" />
+
+
+
+
+<img width="848" height="429" alt="image" src="https://github.com/user-attachments/assets/b799a2ea-c1ca-4aec-93ed-5ac453c8d5e6" />
+
+
+
+
 
 PRECAUTIONS:
 
