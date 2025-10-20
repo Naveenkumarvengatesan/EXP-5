@@ -41,49 +41,32 @@ OBSERVATIONS:
 
 Tabulation:
 
-LINE REGULATION 
+LINE REGULATION
 
-<img width="638" height="306" alt="table 1ex 5" src="https://github.com/user-attachments/assets/d868fb45-4056-4743-86e1-eb0b94dcd4a8" />
-
+![ex 5 table 1](https://github.com/user-attachments/assets/3a2cf6ef-903e-4566-b31e-9cbf7d8aa4cc)
 
 LOAD REGULATION
 
+![ex 5 table 2](https://github.com/user-attachments/assets/e55f8683-18c4-4dfd-b43f-b24658e2d139)
 
-<img width="739" height="332" alt="exp 5 table 2" src="https://github.com/user-attachments/assets/53506a47-093f-4480-aefd-8b9d6959eb54" />
-
-
-REGULATION CHARACTERISTICS';
+REGULATION CHARACTERISTICS:
 
 MODEL GRAPH
 
 LINE REGULATION
 
-<img width="818" height="332" alt="ex 5 graph 1" src="https://github.com/user-attachments/assets/21bf318a-31d9-4859-9a07-1352c1acd682" />
-
+![ex 5 graph 1](https://github.com/user-attachments/assets/c32f23b7-aaf6-4aac-83d2-5db9de50ac62)
 
 LOAD REGULATION
 
+![ex 5 graph 2](https://github.com/user-attachments/assets/0d9c28a6-dc8d-4508-8dc0-f18d9738bddd)
+
+V-I & REGULATION CHARACTERISTICS: 
+
+![ex 5 cir 1](https://github.com/user-attachments/assets/844d647d-4804-422d-af11-1efb87624328)
 
 
-<img width="710" height="414" alt="exp 5 graph 2" src="https://github.com/user-attachments/assets/b713c934-b649-46a6-b78b-1c30220ca3fd" />
-
-
-
-
-V-I & REGULATION CHARACTERISTICS:
-
-
-
-
-<img width="796" height="390" alt="exp 5 diagram 1" src="https://github.com/user-attachments/assets/7d4e613e-c0e0-4f9f-bfde-c20733940acc" />
-
-
-
-
-<img width="848" height="429" alt="image" src="https://github.com/user-attachments/assets/b799a2ea-c1ca-4aec-93ed-5ac453c8d5e6" />
-
-
-
+![ex 5 cir 2](https://github.com/user-attachments/assets/1886b738-df4d-4435-a5cc-3a79ad737fb3)
 
 
 PRECAUTIONS:
