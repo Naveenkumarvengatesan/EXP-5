@@ -63,8 +63,12 @@ LOAD REGULATION
 
 V-I & REGULATION CHARACTERISTICS: 
 
+LINE REGULATION
+
 ![ex 5 cir 1](https://github.com/user-attachments/assets/844d647d-4804-422d-af11-1efb87624328)
 
+
+LOAD REGULATION 
 
 ![ex 5 cir 2](https://github.com/user-attachments/assets/1886b738-df4d-4435-a5cc-3a79ad737fb3)
 
